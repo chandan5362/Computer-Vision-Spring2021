@@ -1,2 +1,1 @@
-## Computer Vision Assignment and Coursework 
-## Spring 2021
+## Computer Vision Assignment and Coursework Spring 2021
